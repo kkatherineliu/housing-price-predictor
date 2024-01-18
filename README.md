@@ -4,7 +4,7 @@ This is the notebook I am working in to submit things into the beginner friendly
 
 I am slowly trying to apply the concepst I've learned in the courses to build a model that can perform well. Mostly focusing on data cleaning and feature engineering with the help of built-in Python libraries
 
-Here is the plan:
+Here are the general steps I will try to follow
 
 **data cleaning**
 
