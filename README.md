@@ -29,6 +29,8 @@ Here are the general steps I will try to follow
 - comparing different models/parameters
 - Double-check the uses for cross-validation and see if they apply for this dataset
 
+**reading other public notebooks to optimize**
+
 **other things to consider**
 
 - real feature engineering (combining through + /)
